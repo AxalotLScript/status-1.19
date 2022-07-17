@@ -1,0 +1,15 @@
+{
+  "gui.status.title": "Установить тэг",
+  "key.status_gui": "Открой меню статуса",
+  "message.status.mod_name": "Статус",
+  "message.status.change_status": "Не забудьте установить свой статус",
+  "message.status.set_status": "Откройте графический интерфейс статуса, чтобы установить свой статус",
+  "message.status.incompatible_version": "Ваша версия статуса несовместима с версией сервера.\nПожалуйста, установите версию %s of %s.",
+  "message.status.no_availability": "Ничего",
+  "message.status.do_not_disturb": "Занят",
+  "message.status.open": "Скучно, жду гостей",
+  "message.status.recording": "Запись",
+  "message.status.streaming": "Стрим",
+  "message.status.no_sleep": "Не спать",
+  "message.status.neutral": "Ничего"
+}
